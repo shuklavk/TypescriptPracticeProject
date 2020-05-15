@@ -1,4 +1,4 @@
-# TypescriptPracticeProject
+# Typescript Practice Project
 A quick practice to practice typescript, which I will be using for a bigger project.
 
 All this project does is generates a random user and random company (random information from faker module) and uses google maps api to mark them on the map. 
